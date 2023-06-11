@@ -26,9 +26,7 @@
 </blockquote>
 <p>同样的其中“图片描述”与“图片标题”为选填。</p>
 <h4 id="六，超链接"><a href="#六，超链接" class="headerlink" title="六，超链接"></a>六，超链接</h4><p>语法结构为：</p>
-<blockquote>
-<p><a href="%E8%B6%85%E9%93%BE%E6%8E%A5%E5%9C%B0%E5%9D%80" title="超链接标题">超链接名</a></p>
-</blockquote>
+<p><code>[超链接名](超链接地址 &quot;超链接标题&quot;)</code></p>
 <p>其实与插入图片类似，只是无需其中的“！”</p>
 <h4 id="七，列表（分条列举）"><a href="#七，列表（分条列举）" class="headerlink" title="七，列表（分条列举）"></a>七，列表（<del>分条列举</del>）</h4><h6 id="1，无序列表"><a href="#1，无序列表" class="headerlink" title="1，无序列表"></a>1，无序列表</h6><p>以“-”“+”与“*”来表示每条前的小黑点</p>
 <p>如：</p>
@@ -46,7 +44,8 @@
 <h4 id="八，表格"><a href="#八，表格" class="headerlink" title="八，表格"></a>八，表格</h4><p>语法结构为：</p>
 <figure class="highlight text"><table><tr><td class="code"><pre><span class="line">|表头|表头|表头|</span><br><span class="line">|---|:--:|---:|</span><br><span class="line">|内容|内容|内容|</span><br><span class="line">|内容|内容|内容|</span><br></pre></td></tr></table></figure>
 
-<p><del><em>#焯上面这个东西是从知乎复制粘贴来的我还不会整这个”text“效果</em></del></p>
+
+
 <p>效果如下：</p>
 <table>
 <thead>
@@ -82,9 +81,8 @@
 <p>​	1，定义元素</p>
 <p>​	2，连接它们</p>
 <p>#需要在代码模式下使用。</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">st=&gt;start: 开始</span><br><span class="line">op=&gt;operation: 活动</span><br><span class="line">cond=&gt;condition: Yes or No?</span><br><span class="line">e=&gt;end: 结束</span><br><span class="line">st-&gt;op-&gt;cond</span><br><span class="line">cond(yes)-&gt;e</span><br><span class="line">cond(no)-&gt;op</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">st=&gt;start: 开始</span><br><span class="line">op=&gt;operation: 活动</span><br><span class="line">cond=&gt;condition: Yes or No?</span><br><span class="line">e=&gt;end: 结束</span><br><span class="line">st-&gt;op-&gt;cond</span><br><span class="line">cond(yes)-&gt;e</span><br><span class="line">cond(no)-&gt;op</span><br><span class="line"></span><br></pre></td></tr></table></figure>
 
-<p><img src="https://pic2.zhimg.com/80/v2-9cbb0622c32d59608a5d5470ccd43a11_720w.webp%E2%80%9C%E7%BC%96%E5%86%99%E8%BF%87%E7%A8%8B%EF%BC%88%E6%9D%A5%E8%87%AA%E7%9F%A5%E4%B9%8E%EF%BC%89%E2%80%9D" alt="如图"></p>
 <figure class="highlight text"><table><tr><td class="code"><pre><span class="line">(```)flow</span><br><span class="line">st=&gt;start: 开始</span><br><span class="line">op=&gt;operation: My Operation</span><br><span class="line">cond=&gt;condition: Yes or No?</span><br><span class="line">e=&gt;end</span><br><span class="line">st-&gt;op-&gt;cond</span><br><span class="line">cond(yes)-&gt;e</span><br><span class="line">cond(no)-&gt;op</span><br><span class="line">(```)</span><br><span class="line">注：为了防止转译，前后三个反引号处加了小括号。</span><br></pre></td></tr></table></figure>
 
 <h4 id="十一，缩进"><a href="#十一，缩进" class="headerlink" title="十一，缩进"></a>十一，缩进</h4><figure class="highlight text"><table><tr><td class="code"><pre><span class="line">&amp;nbsp;  缩进1/4中文</span><br><span class="line">&amp;ensp;  缩进半个中文，一个字符</span><br><span class="line">&amp;emsp;  缩进一个中文，2个字符</span><br></pre></td></tr></table></figure>
@@ -107,12 +105,9 @@
 <p>比如<a href="https://link.zhihu.com/?target=https://cloudinary.com/">Cloudinary</a> （梯子访问）提供的图片CDN服务，在 Cloudinary 中上传图片后，会生成对应的 url 地址，将地址直接拿来引用即可。或者上传到<a href="https://link.zhihu.com/?target=https://imgchr.com/">路过图床</a>（不用梯子）。</p>
 <h4 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h4><p>OK，终于学完了一些markdown的语法，可以尽情给自己写博客咯~</p>
 <h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul>
-<li><p><a href="https://zhuanlan.zhihu.com/p/270716843">5分钟学会Markdown基本语法 - 知乎 (zhihu.com)</a></p>
-</li>
-<li><p><a href="https://zhuanlan.zhihu.com/p/547520780">2022 Hexo 博客搭建和使用教程(Windows) - 知乎 (zhihu.com)</a></p>
-</li>
-<li><p>[键盘上的反引号怎么打出来啊?_百度知道 (baidu.com)](<a href="https://zhidao.baidu.com/question/7351912.html#:~:text=1%E3%80%81%E5%85%88%E6%89%93%E5%BC%80%E4%B8%80%E4%B8%AA%E8%BE%93%E5%85%A5%E7%AA%97%E5%8F%A3%EF%BC%8C%E8%BF%99%E9%87%8Cword%E6%96%87%E6%A1%A3%E8%BE%93%E5%85%A5%E7%AA%97%E5%8F%A3%E4%B8%BA%E4%BE%8B%E3%80%82">https://zhidao.baidu.com/question/7351912.html#:~:text=1、先打开一个输入窗口，这里word文档输入窗口为例。</a> 2、开了文档之后，首先确保输入法处于英文输入法的状态，英文输入法才能将反引号打出来，中文输入法打出来的是双引号。,3、然后在电脑键盘里面找到红色方框里面的键盘。 4、找到之后，在需要输入反引号的地方按一下此键就可以了。)</p>
-</li>
+<li><a href="https://zhuanlan.zhihu.com/p/270716843">5分钟学会Markdown基本语法 - 知乎 (zhihu.com)</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/547520780">2022 Hexo 博客搭建和使用教程(Windows) - 知乎 (zhihu.com)</a></li>
+<li><a href="https://zhidao.baidu.com/question/7351912.html">键盘上的反引号怎么打出来啊?_百度知道 (baidu.com)</a></li>
 </ul>
 ]]></content>
   </entry>
