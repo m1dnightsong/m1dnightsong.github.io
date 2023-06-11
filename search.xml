@@ -3,7 +3,7 @@
   <entry>
     <title>我的第一篇博客</title>
     <url>/2023/06/11/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<h3 id="先学会一些markdown语法吧"><a href="#先学会一些markdown语法吧" class="headerlink" title="先学会一些markdown语法吧"></a>先学会一些markdown语法吧</h3><h4 id="一，标题"><a href="#一，标题" class="headerlink" title="一，标题"></a>一，标题</h4><p>在n级标题前加上n个“#”与1个空格。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="先学会一些markdown语法吧"><a href="#先学会一些markdown语法吧" class="headerlink" title="先学会一些markdown语法吧"></a>先学会一些markdown语法吧</h3><h4 id="一，标题"><a href="#一，标题" class="headerlink" title="一，标题"></a>一，标题</h4><p>在n级标题前加上n个“#”与1个空格。</p>
 <h4 id="二，字体"><a href="#二，字体" class="headerlink" title="二，字体"></a>二，字体</h4><p><strong>加粗</strong></p>
 <p>对象前后分别加上两个“*”。</p>
 <p><em>斜体</em></p>
@@ -119,7 +119,7 @@
   <entry>
     <title>Hello World</title>
     <url>/2023/06/11/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
