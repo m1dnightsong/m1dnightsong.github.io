@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>我的第一篇博客</title>
-    <url>/2023/06/11/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+    <title>简单的markdown语法-编写博客必备</title>
+    <url>/2023/06/11/%E7%AE%80%E5%8D%95%E7%9A%84markdown%E8%AF%AD%E6%B3%95-%E7%BC%96%E5%86%99%E5%8D%9A%E5%AE%A2%E5%BF%85%E5%A4%87/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="先学会一些markdown语法吧"><a href="#先学会一些markdown语法吧" class="headerlink" title="先学会一些markdown语法吧"></a>先学会一些markdown语法吧</h3><h4 id="一，标题"><a href="#一，标题" class="headerlink" title="一，标题"></a>一，标题</h4><p>在n级标题前加上n个“#”与1个空格。</p>
 <h4 id="二，字体"><a href="#二，字体" class="headerlink" title="二，字体"></a>二，字体</h4><p><strong>加粗</strong></p>
 <p>对象前后分别加上两个“*”。</p>
@@ -67,8 +67,8 @@
 </tr>
 </tbody></table>
 <p><del><em>#键盘上为什么没有这个专名号”|“？（恼）</em></del></p>
-<h4 id="九，代码"><a href="#九，代码" class="headerlink" title="九，代码"></a>九，代码</h4><h6 id="0，反引号的打法"><a href="#0，反引号的打法" class="headerlink" title="0，反引号的打法"></a>0，反引号的打法</h6><p><img src="https://iknow-pic.cdn.bcebos.com/0b7b02087bf40ad154041242592c11dfa8ecceab" alt="键盘上的反引号（来自百度知道）"></p>
-<p>![键盘上的反引号](<a href="https://upload-images.jianshu.io/upload_images/5875644-9882f9eb0f830336.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/600/format/webp">https://upload-images.jianshu.io/upload_images/5875644-9882f9eb0f830336.png?imageMogr2/auto-orient/strip|imageView2/2/w/600/format/webp</a> “键盘上的反引号”)</p>
+<h4 id="九，代码"><a href="#九，代码" class="headerlink" title="九，代码"></a>九，代码</h4><h6 id="0，反引号的打法"><a href="#0，反引号的打法" class="headerlink" title="0，反引号的打法"></a>0，反引号的打法</h6><p><img src="/2023/06/11/%E7%AE%80%E5%8D%95%E7%9A%84markdown%E8%AF%AD%E6%B3%95-%E7%BC%96%E5%86%99%E5%8D%9A%E5%AE%A2%E5%BF%85%E5%A4%87/Users\Administrator\Desktop\新建文件夹\source_posts\我的第一篇博客\0b7b02087bf40ad154041242592c11dfa8ecceab.png" alt="键盘上的反引号（来自百度知道）"></p>
+<p><img src="/2023/06/11/%E7%AE%80%E5%8D%95%E7%9A%84markdown%E8%AF%AD%E6%B3%95-%E7%BC%96%E5%86%99%E5%8D%9A%E5%AE%A2%E5%BF%85%E5%A4%87/Users\Administrator\Desktop\新建文件夹\source_posts\我的第一篇博客\5875644-9882f9eb0f830336.webp" alt="001"></p>
 <h6 id="1，单行代码"><a href="#1，单行代码" class="headerlink" title="1，单行代码"></a>1，单行代码</h6><p>对象前后分别加上一个“&#96;”。</p>
 <h6 id="2，代码块"><a href="#2，代码块" class="headerlink" title="2，代码块"></a>2，代码块</h6><p>1，对象前后分别加上三个“&#96;”且单独成行。</p>
 <p>2，在每行代码前加上制表符（press“tab”）或四个空格。</p>
