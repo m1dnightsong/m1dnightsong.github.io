@@ -6,7 +6,7 @@
   <link href="http://m1dnightsonggithub.io/atom.xml" rel="self"/>
   
   <link href="http://m1dnightsonggithub.io/"/>
-  <updated>2023-06-11T08:48:32.467Z</updated>
+  <updated>2023-06-12T07:49:34.489Z</updated>
   <id>http://m1dnightsonggithub.io/</id>
   
   <author>
@@ -15,6 +15,48 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>GitHub代理工具-DevSidercar</title>
+    <link href="http://m1dnightsonggithub.io/2023/06/12/GitHub%E4%BB%A3%E7%90%86%E5%B7%A5%E5%85%B7-DevSidercar/"/>
+    <id>http://m1dnightsonggithub.io/2023/06/12/GitHub%E4%BB%A3%E7%90%86%E5%B7%A5%E5%85%B7-DevSidercar/</id>
+    <published>2023-06-12T07:32:14.000Z</published>
+    <updated>2023-06-12T07:49:34.489Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>优雅的office部署方案</title>
+    <link href="http://m1dnightsonggithub.io/2023/06/12/%E4%BC%98%E9%9B%85%E7%9A%84office%E9%83%A8%E7%BD%B2%E6%96%B9%E6%A1%88/"/>
+    <id>http://m1dnightsonggithub.io/2023/06/12/%E4%BC%98%E9%9B%85%E7%9A%84office%E9%83%A8%E7%BD%B2%E6%96%B9%E6%A1%88/</id>
+    <published>2023-06-12T07:05:20.000Z</published>
+    <updated>2023-06-12T07:49:59.014Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>简单的markdown语法-编写博客必备</title>

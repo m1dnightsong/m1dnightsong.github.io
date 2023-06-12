@@ -1,6 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>GitHub代理工具-DevSidercar</title>
+    <url>/2023/06/12/GitHub%E4%BB%A3%E7%90%86%E5%B7%A5%E5%85%B7-DevSidercar/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="DevSidercar"><a href="#DevSidercar" class="headerlink" title="DevSidercar"></a>DevSidercar</h3><p>一款可以实现GitHub高速访问的工具（开发者边车）。</p>
+<p>命名取自 service-<a href="https://so.csdn.net/so/search?q=mesh&spm=1001.2101.3001.7020">mesh</a> 的 service-sidecar，意为为开发者打辅助的边车工具。通过本地代理的方式将 https 请求代理到一些加速通道上，就可以实现对 Github 的高速访问。</p>
+<h3 id="桌面应用"><a href="#桌面应用" class="headerlink" title="桌面应用"></a>桌面应用</h3><p>支持 windows、Mac</p>
+<h4 id="1-下载安装包"><a href="#1-下载安装包" class="headerlink" title="1. 下载安装包"></a>1. 下载安装包</h4><p><strong>release下载</strong></p>
+<ul>
+<li><p><a href="https://gitee.com/docmirror/dev-sidecar/releases">Gitee Release</a></p>
+</li>
+<li><p><a href="https://github.com/docmirror/dev-sidecar/releases">Github Release</a></p>
+<p>Windows: 请选择 DevSidecar-x.x.x.exe<br>Mac: 请选择 DevSidecar-x.x.x.dmg</p>
+</li>
+</ul>
+<h4 id="2-安装后打开"><a href="#2-安装后打开" class="headerlink" title="2. 安装后打开"></a>2. 安装后打开</h4><blockquote>
+<p>注意：mac版安装需要在“系统偏好设置-&gt;安全性与隐私-&gt;通用”中解锁并允许应用安装</p>
+</blockquote>
+<p><img src="https://img-blog.csdnimg.cn/20210425102952101.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1hIX2ppbmc=,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p>
+<h4 id="3-安装根证书"><a href="#3-安装根证书" class="headerlink" title="3. 安装根证书"></a>3. 安装根证书</h4><p>第一次打开会提示安装证书，根据提示操作即可。</p>
+<blockquote>
+<p>根证书是本地随机生成的，所以不用担心根证书的安全问题（本应用不收集任何用户信息）<br>你也可以在加速服务设置中自定义根证书（PEM格式的证书与私钥）</p>
+</blockquote>
+<h4 id="4-开始加速吧"><a href="#4-开始加速吧" class="headerlink" title="4. 开始加速吧"></a>4. 开始加速吧</h4><p>去试试打开 github 加速使用吧。</p>
+<hr>
+<p>dev-sidercar 项目源代码：</p>
+<ul>
+<li><a href="https://gitee.com/docmirror/dev-sidecar">Gitee 下载</a></li>
+<li><a href="https://github.com/docmirror/dev-sidecar">GitHub 下载</a></li>
+</ul>
+<p>感谢项目开发者！</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>优雅的office部署方案</title>
+    <url>/2023/06/12/%E4%BC%98%E9%9B%85%E7%9A%84office%E9%83%A8%E7%BD%B2%E6%96%B9%E6%A1%88/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id><a href="#" class="headerlink" title></a></h3><p>本方案适合一时困厄的朋友暂时白嫖office使用</p>
+<h5 id="一，部署office本体"><a href="#一，部署office本体" class="headerlink" title="一，部署office本体"></a>一，部署office本体</h5><p>你需要用到：Office Tool Plus</p>
+<p><a href="https://otp.landian.vip/zh-cn/">Office Tool Plus 官方网站 - 一键部署 Office (landian.vip)</a></p>
+<p><img src="/2023/06/12/%E4%BC%98%E9%9B%85%E7%9A%84office%E9%83%A8%E7%BD%B2%E6%96%B9%E6%A1%88/Users\Administrator\Desktop\个人博客\source_posts\优雅的office部署方案\uTools_1686554164230.png" alt="uTools_1686554164230"></p>
+<h5 id="二，激活office"><a href="#二，激活office" class="headerlink" title="二，激活office"></a>二，激活office</h5><p>你需要用到：HEU_KMS_Activator</p>
+<p>[zbezj&#x2F;HEU_KMS_Activator (github.com)</p>
+<p><a href="https://github.com/zbezj/HEU_KMS_Activator"><img src="/2023/06/12/%E4%BC%98%E9%9B%85%E7%9A%84office%E9%83%A8%E7%BD%B2%E6%96%B9%E6%A1%88/Users\Administrator\Desktop\个人博客\source_posts\优雅的office部署方案\uTools_1686554478000.png" alt="uTools_1686554478000"></a></p>
+<p>🔗下载链接：<a href="https://github.com/zbezj/HEU_KMS_Activator/releases/download/30.2.0/HEU_KMS_Activator_v30.2.0.zip">github.com</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>简单的markdown语法-编写博客必备</title>
     <url>/2023/06/11/%E7%AE%80%E5%8D%95%E7%9A%84markdown%E8%AF%AD%E6%B3%95-%E7%BC%96%E5%86%99%E5%8D%9A%E5%AE%A2%E5%BF%85%E5%A4%87/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="先学会一些markdown语法吧"><a href="#先学会一些markdown语法吧" class="headerlink" title="先学会一些markdown语法吧"></a>先学会一些markdown语法吧</h3><h4 id="一，标题"><a href="#一，标题" class="headerlink" title="一，标题"></a>一，标题</h4><p>在n级标题前加上n个“#”与1个空格。</p>
