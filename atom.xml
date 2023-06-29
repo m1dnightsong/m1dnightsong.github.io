@@ -6,7 +6,7 @@
   <link href="http://m1dnightsonggithub.io/atom.xml" rel="self"/>
   
   <link href="http://m1dnightsonggithub.io/"/>
-  <updated>2023-06-12T07:49:34.489Z</updated>
+  <updated>2023-06-29T11:27:38.922Z</updated>
   <id>http://m1dnightsonggithub.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新一代效率工具平台——uTools</title>
+    <link href="http://m1dnightsonggithub.io/2023/06/29/%E6%96%B0%E4%B8%80%E4%BB%A3%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7%E5%B9%B3%E5%8F%B0%E2%80%94%E2%80%94uTools/"/>
+    <id>http://m1dnightsonggithub.io/2023/06/29/%E6%96%B0%E4%B8%80%E4%BB%A3%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7%E5%B9%B3%E5%8F%B0%E2%80%94%E2%80%94uTools/</id>
+    <published>2023-06-29T11:23:26.000Z</published>
+    <updated>2023-06-29T11:27:38.922Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>GitHub代理工具-DevSidercar</title>
